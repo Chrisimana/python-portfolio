@@ -28,12 +28,6 @@ Alur kerja skrip ini sederhana dan berjalan secara linear di terminal:
 4. Hasil dikumpulkan hingga mencapai jumlah yang diminta atau batas maksimum percobaan tercapai.
 5. Daftar nama brand ditampilkan ke layar dalam format list bernomor.
 
-## Cara Penggunaan
-Jalankan skrip melalui terminal:
-```bash
-python3 brand_name_generator.py
-```
-
 ## Pembelajaran Spesifik
 - Memahami cara menggunakan `set` di Python untuk memastikan hasil acak yang dihasilkan tetap unik tanpa duplikat.
 - Belajar menerapkan batas maksimum percobaan (`max_attempts`) untuk mencegah program terjebak dalam infinite loop ketika kombinasi unik yang diminta lebih banyak daripada kombinasi yang mungkin dihasilkan.
