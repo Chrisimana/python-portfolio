@@ -1,9 +1,3 @@
-# Rock Paper Scissors (Batu Gunting Kertas)
-# --------------------------------------------
-# Sebuah permainan Batu Gunting Kertas command-line sederhana di mana
-# pemain bertanding melawan komputer selama beberapa ronde, dengan
-# skor yang dilacak hingga pemain memutuskan untuk berhenti.
-
 import random
 
 CHOICES = ["rock", "paper", "scissors"]
