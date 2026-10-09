@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "2025-08-08 18:18:26",
+    "nama": "Testing one",
+    "berat": 80.0,
+    "tinggi": 2.0,
+    "bmi": 20.0,
+    "kategori": "Berat badan normal"
+  },
+  {
+    "timestamp": "2025-08-08 18:20:01",
+    "nama": "Testing one",
+    "berat": 80.0,
+    "tinggi": 1.8,
+    "bmi": 24.69,
+    "kategori": "Berat badan normal"
+  },
+  {
+    "timestamp": "2025-11-24 16:24:16",
+    "nama": "Testing two",
+    "berat": 180.0,
+    "tinggi": 2.0,
+    "bmi": 45.0,
+    "kategori": "Obesitas"
+  },
+  {
+    "timestamp": "2025-11-24 16:24:26",
+    "nama": "Testing two",
+    "berat": 180.0,
+    "tinggi": 2.0,
+    "bmi": 45.0,
+    "kategori": "Obesitas"
+  }
+]

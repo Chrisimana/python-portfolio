@@ -1,0 +1,632 @@
+[
+    {
+        "tanggal": "2025-11-05 23:21:11",
+        "status": "kalah",
+        "tebakan": [
+            10,
+            5,
+            2
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-05 23:21:30",
+        "status": "kalah",
+        "tebakan": [
+            6,
+            2,
+            4
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-05 23:21:37",
+        "status": "menang",
+        "tebakan": [
+            6,
+            4
+        ],
+        "kesempatan_terpakai": 1,
+        "total_tebakan": 2
+    },
+    {
+        "tanggal": "2025-11-05 23:22:07",
+        "status": "menang",
+        "tebakan": [
+            5,
+            3
+        ],
+        "kesempatan_terpakai": 1,
+        "total_tebakan": 2
+    },
+    {
+        "tanggal": "2025-11-05 23:22:13",
+        "status": "menang",
+        "tebakan": [
+            7
+        ],
+        "kesempatan_terpakai": 0,
+        "total_tebakan": 1
+    },
+    {
+        "tanggal": "2025-11-05 23:22:29",
+        "status": "menang",
+        "tebakan": [
+            9
+        ],
+        "kesempatan_terpakai": 0,
+        "total_tebakan": 1
+    },
+    {
+        "tanggal": "2025-11-05 23:22:36",
+        "status": "menang",
+        "tebakan": [
+            1
+        ],
+        "kesempatan_terpakai": 0,
+        "total_tebakan": 1
+    },
+    {
+        "tanggal": "2025-11-05 23:22:40",
+        "status": "menang",
+        "tebakan": [
+            3
+        ],
+        "kesempatan_terpakai": 0,
+        "total_tebakan": 1
+    },
+    {
+        "tanggal": "2025-11-05 23:22:46",
+        "status": "kalah",
+        "tebakan": [
+            5,
+            4,
+            2
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-05 23:23:06",
+        "status": "menang",
+        "tebakan": [
+            2,
+            5,
+            8
+        ],
+        "kesempatan_terpakai": 2,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-23 22:48:09",
+        "status": "kalah",
+        "tebakan": [
+            10,
+            4,
+            2
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-23 22:48:18",
+        "status": "menang",
+        "tebakan": [
+            1
+        ],
+        "kesempatan_terpakai": 0,
+        "total_tebakan": 1
+    },
+    {
+        "tanggal": "2025-11-23 22:48:27",
+        "status": "kalah",
+        "tebakan": [
+            1,
+            6,
+            3
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-23 22:48:29",
+        "status": "menang",
+        "tebakan": [
+            2
+        ],
+        "kesempatan_terpakai": 0,
+        "total_tebakan": 1
+    },
+    {
+        "tanggal": "2025-11-23 22:48:34",
+        "status": "menang",
+        "tebakan": [
+            5,
+            7
+        ],
+        "kesempatan_terpakai": 1,
+        "total_tebakan": 2
+    },
+    {
+        "tanggal": "2025-11-23 22:49:34",
+        "status": "kalah",
+        "tebakan": [
+            3,
+            7,
+            4
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-23 22:49:36",
+        "status": "kalah",
+        "tebakan": [
+            3,
+            7,
+            4
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-23 22:49:45",
+        "status": "menang",
+        "tebakan": [
+            5,
+            8,
+            6
+        ],
+        "kesempatan_terpakai": 2,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-23 22:49:53",
+        "status": "kalah",
+        "tebakan": [
+            6,
+            8,
+            9
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-23 22:50:00",
+        "status": "kalah",
+        "tebakan": [
+            10,
+            4,
+            1
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-23 22:50:09",
+        "status": "menang",
+        "tebakan": [
+            1,
+            6
+        ],
+        "kesempatan_terpakai": 1,
+        "total_tebakan": 2
+    },
+    {
+        "tanggal": "2026-03-20 10:38:17",
+        "status": "kalah",
+        "tebakan": [
+            5,
+            2,
+            1
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:38:29",
+        "status": "kalah",
+        "tebakan": [
+            7,
+            4,
+            5
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:38:38",
+        "status": "menang",
+        "tebakan": [
+            6,
+            8,
+            7
+        ],
+        "kesempatan_terpakai": 2,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:38:48",
+        "status": "menang",
+        "tebakan": [
+            7
+        ],
+        "kesempatan_terpakai": 0,
+        "total_tebakan": 1
+    },
+    {
+        "tanggal": "2026-03-20 10:38:54",
+        "status": "menang",
+        "tebakan": [
+            7,
+            5
+        ],
+        "kesempatan_terpakai": 1,
+        "total_tebakan": 2
+    },
+    {
+        "tanggal": "2026-03-20 10:39:00",
+        "status": "menang",
+        "tebakan": [
+            4,
+            6
+        ],
+        "kesempatan_terpakai": 1,
+        "total_tebakan": 2
+    },
+    {
+        "tanggal": "2026-03-20 10:39:05",
+        "status": "menang",
+        "tebakan": [
+            6,
+            8,
+            7
+        ],
+        "kesempatan_terpakai": 2,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:39:12",
+        "status": "menang",
+        "tebakan": [
+            7,
+            5,
+            6
+        ],
+        "kesempatan_terpakai": 2,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:39:16",
+        "status": "menang",
+        "tebakan": [
+            6,
+            8
+        ],
+        "kesempatan_terpakai": 1,
+        "total_tebakan": 2
+    },
+    {
+        "tanggal": "2026-03-20 10:39:20",
+        "status": "menang",
+        "tebakan": [
+            8,
+            6
+        ],
+        "kesempatan_terpakai": 1,
+        "total_tebakan": 2
+    },
+    {
+        "tanggal": "2026-03-20 10:45:12",
+        "status": "menang",
+        "tebakan": [
+            5,
+            3,
+            4
+        ],
+        "kesempatan_terpakai": 2,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:45:24",
+        "status": "menang",
+        "tebakan": [
+            4,
+            6,
+            5
+        ],
+        "kesempatan_terpakai": 2,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:45:27",
+        "status": "menang",
+        "tebakan": [
+            5,
+            7
+        ],
+        "kesempatan_terpakai": 1,
+        "total_tebakan": 2
+    },
+    {
+        "tanggal": "2026-03-20 10:45:33",
+        "status": "menang",
+        "tebakan": [
+            7,
+            9,
+            10
+        ],
+        "kesempatan_terpakai": 2,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:45:43",
+        "status": "kalah",
+        "tebakan": [
+            10,
+            8,
+            6
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:45:49",
+        "status": "kalah",
+        "tebakan": [
+            1,
+            3,
+            6
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:45:55",
+        "status": "kalah",
+        "tebakan": [
+            8,
+            6,
+            3
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:45:58",
+        "status": "menang",
+        "tebakan": [
+            5,
+            3
+        ],
+        "kesempatan_terpakai": 1,
+        "total_tebakan": 2
+    },
+    {
+        "tanggal": "2026-03-20 10:46:02",
+        "status": "menang",
+        "tebakan": [
+            3,
+            5
+        ],
+        "kesempatan_terpakai": 1,
+        "total_tebakan": 2
+    },
+    {
+        "tanggal": "2026-03-20 10:46:05",
+        "status": "menang",
+        "tebakan": [
+            5,
+            3
+        ],
+        "kesempatan_terpakai": 1,
+        "total_tebakan": 2
+    },
+    {
+        "tanggal": "2026-03-20 10:46:09",
+        "status": "menang",
+        "tebakan": [
+            3,
+            1
+        ],
+        "kesempatan_terpakai": 1,
+        "total_tebakan": 2
+    },
+    {
+        "tanggal": "2026-03-20 10:46:15",
+        "status": "kalah",
+        "tebakan": [
+            1,
+            3,
+            8
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:49:28",
+        "status": "menang",
+        "tebakan": [
+            7,
+            9,
+            8
+        ],
+        "kesempatan_terpakai": 2,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:49:35",
+        "status": "menang",
+        "tebakan": [
+            8,
+            6,
+            7
+        ],
+        "kesempatan_terpakai": 2,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:49:40",
+        "status": "menang",
+        "tebakan": [
+            7,
+            9
+        ],
+        "kesempatan_terpakai": 1,
+        "total_tebakan": 2
+    },
+    {
+        "tanggal": "2026-03-20 10:49:45",
+        "status": "kalah",
+        "tebakan": [
+            9,
+            7,
+            4
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:49:51",
+        "status": "menang",
+        "tebakan": [
+            5,
+            3
+        ],
+        "kesempatan_terpakai": 1,
+        "total_tebakan": 2
+    },
+    {
+        "tanggal": "2026-03-20 10:49:59",
+        "status": "kalah",
+        "tebakan": [
+            3,
+            5,
+            7
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:50:04",
+        "status": "kalah",
+        "tebakan": [
+            6,
+            4,
+            2
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:50:10",
+        "status": "kalah",
+        "tebakan": [
+            1,
+            3,
+            6
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:50:14",
+        "status": "kalah",
+        "tebakan": [
+            8,
+            6,
+            4
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:50:20",
+        "status": "kalah",
+        "tebakan": [
+            2,
+            4,
+            7
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:50:25",
+        "status": "menang",
+        "tebakan": [
+            9,
+            6,
+            1
+        ],
+        "kesempatan_terpakai": 2,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:50:31",
+        "status": "menang",
+        "tebakan": [
+            4,
+            2,
+            3
+        ],
+        "kesempatan_terpakai": 2,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:50:36",
+        "status": "menang",
+        "tebakan": [
+            3,
+            5,
+            4
+        ],
+        "kesempatan_terpakai": 2,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:50:39",
+        "status": "menang",
+        "tebakan": [
+            4,
+            6,
+            5
+        ],
+        "kesempatan_terpakai": 2,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:50:43",
+        "status": "menang",
+        "tebakan": [
+            5,
+            3
+        ],
+        "kesempatan_terpakai": 1,
+        "total_tebakan": 2
+    },
+    {
+        "tanggal": "2026-03-20 10:51:09",
+        "status": "kalah",
+        "tebakan": [
+            3,
+            5,
+            7
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2026-03-20 10:51:14",
+        "status": "menang",
+        "tebakan": [
+            8,
+            6,
+            7
+        ],
+        "kesempatan_terpakai": 2,
+        "total_tebakan": 3
+    }
+]
